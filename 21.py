@@ -22,4 +22,5 @@ if nama == "otong":
     print("hai otooong, si kereen!!")
 else:
     print("Ah kamu bukan otong, kamu gak keren!:(")
+    
 print("Akhir dari program")
