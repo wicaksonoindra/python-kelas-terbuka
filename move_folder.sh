@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {24..54}
+for i in {01..56}
 do
-	mv $i*.py Episode-$i
+	mv Episode-$i $i
 done
