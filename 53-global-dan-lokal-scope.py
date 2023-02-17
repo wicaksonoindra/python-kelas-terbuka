@@ -43,7 +43,7 @@ print(f"sebelum = {angka, name}")
 ubah(10,"Otong")
 print(f"Sesudah = {angka, name}")
 
-# contoh 3: bisa mengambil dan merubah variabel global dalam for dan if
+## contoh 3: bisa mengambil dan merubah variabel global dalam for dan if
 angka = 0
 for i in range(0,5):
     angka += i
