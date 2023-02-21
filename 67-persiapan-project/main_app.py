@@ -1,4 +1,5 @@
 import os
+import CRUD as CRUD
 
 if __name__ == "__main__":
     sistem_operasi = os.name
